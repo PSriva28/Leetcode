@@ -15,6 +15,7 @@ public class Array1431 {
             }
             
         }System.out.println(max);
+        //Not suitable for dynamic array
         // boolean newArray[] = new boolean[arr.length];
         // for(int i=0;i<arr.length;i++){
         //     newArray[i] = (arr[i]+ extracandies >= max);
